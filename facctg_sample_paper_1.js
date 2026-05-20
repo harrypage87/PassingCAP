@@ -389,7 +389,7 @@ const facctgSamplePaper1 = [
     questionText:
       "Using the same SUITS information as in Question 17 above (Adam Suitor / Suitor's Suits).<br><br>" +
       "<strong>Requirement:</strong> Calculate the carrying amount of plant and equipment as at 31 December 2xx5.",
-    answer: 25000,
+    correctAnswer: 25000,
   },
 
   // --- Q19 ------------------------------------------------------------------
