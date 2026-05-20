@@ -48,7 +48,7 @@ const facctgSamplePaper2 = [
       "Using the same APEX information as in Question 2 above.<br><br>" +
       "An item of plant with a cost of €/£ 25,000 was sold on 31 December 2xx5 for proceeds of €/£ 10,000. The plant had been purchased on 1 January 2xx3. APEX charges depreciation on a proportionate basis.<br><br>" +
       "<strong>Requirement:</strong> Calculate the profit / loss arising on the sale of the machinery on 31 December 2xx5. Use the minus sign \"-\" to indicate a loss.",
-    answer: -2800,
+    correctAnswer: -2800,
   },
 
   // --- Q4 -------------------------------------------------------------------
@@ -103,7 +103,7 @@ const facctgSamplePaper2 = [
       "1. Sales of €/£ 760,000, inclusive of VAT, were made on credit to customers;<br>" +
       "2. Purchases of office supplies totalling €/£ 220,000, excluding VAT, were made on credit from suppliers.<br><br>" +
       "<strong>Requirement (Q6):</strong> Calculate the amount of output VAT charged on the credit sales only in the records of QUANTUM.",
-    answer: 126667,
+    correctAnswer: 126667,
   },
 
   // --- Q7 -------------------------------------------------------------------
@@ -283,7 +283,7 @@ const facctgSamplePaper2 = [
     questionText:
       "GreenSpace Ltd (\"GREENSPACE\") conducted its year-end stocktake on 31 December 2xx5, and the value of inventory counted came to €/£ 600,000. After the stocktake was completed, it was discovered that a delivery of inventory worth €/£ 20,000 had been received on the same day but had not been included in the count. Additionally, stock that had been purchased in October 2xx5 at a cost of €/£ 40,000 was sold on 5 January 2xx6 for €/£ 28,000.<br><br>" +
       "<strong>Requirement:</strong> Calculate the value of the closing inventory to be included in the statement of financial position of GREENSPACE as at 31 December 2xx5.",
-    answer: 608000,
+    correctAnswer: 608000,
   },
 
   // --- Q17 ------------------------------------------------------------------
@@ -311,7 +311,7 @@ const facctgSamplePaper2 = [
     questionText:
       "Orion Ltd (\"ORION\") had an over-provision of tax brought forward from the year ended 31 December 2xx4 amounting to €/£ 4,500. The corporation tax charge estimated for the year ended 31 December 2xx5 is €/£ 85,000.<br><br>" +
       "<strong>Requirement:</strong> Calculate the amount to be included in the statement of profit or loss in relation to tax for the year ended 31 December 2xx5. Use the minus sign \"-\" to indicate a credit figure.",
-    answer: 80500,
+    correctAnswer: 80500,
   },
 
   // --- Q19 ------------------------------------------------------------------
@@ -435,7 +435,7 @@ const facctgSamplePaper2 = [
     questionText:
       "On 1 January 2xx5, Rayner Ltd (\"RAYNER\") entered into a three-year lease contract for the use of office equipment. The agreement requires RAYNER to make an annual payment of €/£ 40,000 on 31 December each year, with the first payment made on 31 December 2xx5. RAYNER also made an upfront payment of €/£ 5,000 as part of the contract and incurred legal fees of €/£ 1,500 related to the lease. The interest rate implicit in the lease is 6%. The present value of the lease payments at the inception of the lease was €/£ 112,800.<br><br>" +
       "<strong>Requirement (Q24):</strong> Calculate the right-of-use asset to be capitalised on the statement of financial position of RAYNER as at 1 January 2xx5.",
-    answer: 119300,
+    correctAnswer: 119300,
   },
 
   // --- Q25 ------------------------------------------------------------------
@@ -492,7 +492,7 @@ const facctgSamplePaper2 = [
     questionText:
       "Emily, a sole trader, conducted her inventory count on 7 January 2xx6 and valued the inventory at €/£ 62,000 at this date. Emily sold goods for €/£ 15,000 on 3 January 2xx6 and made purchases of €/£ 9,000 on 4 January 2xx6. No other transactions took place since Emily's year-end of 31 December 2xx5. Emily applies a 25% mark-up to all sales.<br><br>" +
       "<strong>Requirement:</strong> Calculate the value of Emily's inventory as at 31 December 2xx5.",
-    answer: 65000,
+    correctAnswer: 65000,
   },
 
   // --- Q29 ------------------------------------------------------------------
@@ -704,7 +704,7 @@ const facctgSamplePaper2 = [
         "<tr><td style='padding:4px 8px;border:1px solid #ccc'>Payments to suppliers</td><td style='text-align:right;padding:4px 8px;border:1px solid #ccc'>290,630</td></tr>" +
       "</table>" +
       "<strong>Requirement:</strong> Calculate the closing balance on the trade payables control account as at 31 December 2xx5. Your answer should be entered as a positive value.",
-    answer: 86180,
+    correctAnswer: 86180,
   },
 
   // --- Q40 ------------------------------------------------------------------
@@ -719,7 +719,7 @@ const facctgSamplePaper2 = [
       "• a bank error where a payment of €/£ 150 was recorded as €/£ 15.<br><br>" +
       "The bank statement balance shows a credit balance of €/£ 4,000.<br><br>" +
       "<strong>Requirement:</strong> Calculate the balance on the company's cash book.",
-    answer: 4465,
+    correctAnswer: 4465,
   },
 
   // --- Q41 ------------------------------------------------------------------
