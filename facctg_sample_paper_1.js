@@ -527,7 +527,7 @@ const facctgSamplePaper1 = [
     questionText:
       "Quaris Ltd (\"QUARIS\") has closing inventories of €/£ 310,000 at 31 December 2xx5. This includes an item that was purchased for €/£ 2,800 and delivered at a cost of €/£ 100 to QUARIS. The item was expected to be sold for €/£ 5,000 but a recent recession means that it is likely to be sold for €/£ 3,000 and will incur selling costs of €/£ 300 to do so.<br><br>" +
       "<strong>Requirement:</strong> Calculate the total value of QUARIS' closing inventories at 31 December 2xx5.",
-    answer: 309800,
+    correctAnswer: 309800,
   },
 
   // --- Q28 ------------------------------------------------------------------
@@ -572,7 +572,7 @@ const facctgSamplePaper1 = [
     questionText:
       "In the quarter ended 31 March 2xx5, Stormac Ltd (\"STORMAC\") made sales of €/£ 480,000 exclusive of VAT. In the same quarter the company made €/£ 230,476 of purchases including VAT. The VAT rate applicable is 21%.<br><br>" +
       "<strong>Requirement:</strong> Calculate the VAT asset / liability arising for the quarter ended 31 March 2xx5. If appropriate, use the minus sign to indicate a credit balance.",
-    answer: -60800,
+    correctAnswer: -60800,
   },
 
   // --- Q31 ------------------------------------------------------------------
@@ -607,7 +607,7 @@ const facctgSamplePaper1 = [
         "<tr><td style='padding:4px 8px;border:1px solid #ccc'>Credit sales returns</td><td style='text-align:right;padding:4px 8px;border:1px solid #ccc'>4,920</td></tr>" +
       "</table>" +
       "<strong>Requirement:</strong> Calculate the trade receivables balance at 31 December 2xx5.",
-    answer: 84949,
+    correctAnswer: 84949,
   },
 
   // --- Q33 ------------------------------------------------------------------
@@ -755,7 +755,7 @@ const facctgSamplePaper1 = [
       "</table>" +
       "<em>Note 1: When reconciling the supplier statements, it was discovered that an invoice from a supplier of €/£ 19,302 was recorded as €/£ 1,932 in the 'Credit purchases' figure. This has not yet been corrected.</em><br><br>" +
       "<strong>Requirement:</strong> Calculate the corrected balance on the trade payables account on 31 December 2xx5.",
-    answer: 1040190,
+    correctAnswer: 1040190,
   },
 
   // --- Q42 ------------------------------------------------------------------
