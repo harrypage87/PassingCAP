@@ -445,7 +445,7 @@ const facctgSamplePaper1 = [
     questionText:
       "DONEGAL is building a new residential block that it intends to rent out. The build cost €/£ 1.2m and began on 1 November 2xx4 before being completed on 31 December 2xx5. No work was carried out in June 2xx5 as there was a dispute with the contractor. DONEGAL took out a loan of €/£ 1m specifically for this building at an interest rate of 5%.<br><br>" +
       "<strong>Requirement:</strong> Calculate the total interest to be capitalised for the year ended 31 December 2xx5 in accordance with IAS 23 Borrowing costs.",
-    answer: 45833,
+    correctAnswer: 45833,
   },
 
   // --- Q23 ------------------------------------------------------------------
