@@ -40,7 +40,7 @@ const financeSamplePaper1 = [
       "Your answer should be rounded to the nearest whole number.<br>" +
       "Use the minus sign \"-\" to indicate a cash outflow.",
     parts: [
-      { label: "Revenue — basic subscription (€/£)",   answer: 63024,  tolerance: 1 },
+      { label: "Revenue — basic subscription (€/£)",   correctanswer: 63024,  tolerance: 1 },
       { label: "Revenue — premium subscription (€/£)", answer: 81900,  tolerance: 0 },
       { label: "Publisher cost (€/£)",                  answer: -78764, tolerance: 1 },
       { label: "Marketing & advertising costs (€/£)",   answer: -28800, tolerance: 0 },
