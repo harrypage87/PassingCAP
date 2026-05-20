@@ -117,7 +117,7 @@ const facctgSamplePaper1 = [
       "</table>" +
       "The corporation tax charge for the year ended 31 December 2xx5 is estimated to be €/£ 34,570. The tax amount provided of €/£ 3,500 relates to an over/under provision in respect of the tax charge for the prior year ended 31 December 2xx4.<br><br>" +
       "<strong>Requirement:</strong> Calculate the tax expense that should be included in the statement of profit or loss of STODAY for the year ended 31 December 2xx5.",
-    answer: 38070,
+    correctAnswer: 38070,
   },
 
   // --- Q7 -------------------------------------------------------------------
