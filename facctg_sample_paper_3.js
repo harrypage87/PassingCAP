@@ -54,7 +54,7 @@ const facctgSamplePaper3 = [
       "</table>" +
       "After a review of its trade receivables, LAMB has decided that €/£ 40,000 of the year end trade receivables balance of €/£ 150,520 should be written off as a bad debt. Management has also deemed it prudent to provide for 15% of the remaining trade receivable balances.<br><br>" +
       "<strong>Requirement (Q3):</strong> Calculate the bad and doubtful debt expense that should be included in the statement of profit or loss of LAMB for the year ended 31 December 2xx5.",
-    correctAnswer: 51416,
+    answer: 51416,
   },
 
   // --- Q4 -------------------------------------------------------------------
