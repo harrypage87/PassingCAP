@@ -54,7 +54,7 @@ const facctgSamplePaper3 = [
       "</table>" +
       "After a review of its trade receivables, LAMB has decided that €/£ 40,000 of the year end trade receivables balance of €/£ 150,520 should be written off as a bad debt. Management has also deemed it prudent to provide for 15% of the remaining trade receivable balances.<br><br>" +
       "<strong>Requirement (Q3):</strong> Calculate the bad and doubtful debt expense that should be included in the statement of profit or loss of LAMB for the year ended 31 December 2xx5.",
-    answer: 51416,
+    correctAnswer: 51416,
   },
 
   // --- Q4 -------------------------------------------------------------------
@@ -72,7 +72,7 @@ const facctgSamplePaper3 = [
       "</table>" +
       "The corporation tax charge for the year ended 31 December 2xx5 is estimated to be €/£ 41,500. The tax amount provided relates to an over/under provision in respect of the tax charge for the prior year ended 31 December 2xx4.<br><br>" +
       "<strong>Requirement (Q4):</strong> Calculate the tax expense that should be included in the statement of profit or loss of LAMB for the year ended 31 December 2xx5.",
-    answer: 45000,
+    correctAnswer: 45000,
   },
 
   // --- Q5 -------------------------------------------------------------------
@@ -93,7 +93,7 @@ const facctgSamplePaper3 = [
       "</table>" +
       "It is the policy of BROG to depreciate buildings at 2% per annum on straight-line basis and to depreciate plant and equipment at 10% per annum on a reducing balance basis.<br><br>" +
       "<strong>Requirement (Q5):</strong> Calculate the total depreciation expense that should be included in the statement of profit or loss of BROG for the year ended 31 December 2xx5.",
-    answer: 60500,
+    correctAnswer: 60500,
   },
 
   // --- Q6 -------------------------------------------------------------------
@@ -202,7 +202,7 @@ const facctgSamplePaper3 = [
       "Front Ltd (\"FRONT\") borrowed €/£ 2,000,000 to fund the construction of its head office. The loan was drawn down on 1 March 2xx5 at a rate of 6% per annum. The construction commenced on 1 April 2xx5. Due to environmental concerns, construction was suspended for a two-month period, from 1 September 2xx5 to 31 October 2xx5, and re-commenced on 1 November 2xx5. Construction is expected to be completed on 31 July 2xx6.<br><br>" +
       "Some of the loan proceeds were put on deposit for a two-month period commencing 1 June 2xx5. Deposit interest of €/£ 2,000 and €/£ 2,150 was received by FRONT for the months of June and July respectively.<br><br>" +
       "<strong>Requirement (Q11):</strong> Calculate the deposit interest that is permitted to be offset against FRONT's borrowing costs.",
-    answer: 4150,
+    correctAnswer: 4150,
   },
 
   // --- Q12 ------------------------------------------------------------------
@@ -329,7 +329,7 @@ const facctgSamplePaper3 = [
       "• December 2xx5 cash lodgements of €/£ 1,500 were not reflected on the bank statement until January 2xx6;<br>" +
       "• A lodgement of €/£ 340 made by Alice in October 2xx5 was not recorded on the bank statement.<br><br>" +
       "<strong>Requirement:</strong> Calculate the balance of Alice Brady's cash book as at 31 December 2xx5.",
-    answer: 19905,
+    correctAnswer: 19905,
   },
 
   // --- Q18 ------------------------------------------------------------------
@@ -378,7 +378,7 @@ const facctgSamplePaper3 = [
       "</table>" +
       "The partnership profit for the year ended 31 December 2xx5 totalled €/£ 150,602. The partnership allows for interest on drawings to be charged at 2% per annum. JONES receives an annual salary of €/£ 43,000.<br><br>" +
       "<strong>Requirement:</strong> Calculate ROY's profit share for the year ended 31 December 2xx5.",
-    answer: 56001,
+    correctAnswer: 56001,
   },
 
   // --- Q21 ------------------------------------------------------------------
@@ -396,7 +396,7 @@ const facctgSamplePaper3 = [
       "</table>" +
       "The partnership profit for the year ended 31 December 2xx5 totalled €/£ 92,450. BILLS is guaranteed a minimum profit of €/£ 50,000.<br><br>" +
       "<strong>Requirement:</strong> Calculate the closing balance of the current account of FOX as at 31 December 2xx5. If appropriate, use the minus sign to indicate a credit balance.",
-    answer: -27320,
+    correctAnswer: -27320,
   },
 
   // --- Q22 ------------------------------------------------------------------
@@ -529,7 +529,7 @@ const facctgSamplePaper3 = [
     questionText:
       "On 1 January 2xx5, Carson Ltd (\"CARSON\") entered into a four-year lease contract for the use of an industrial machine in CARSON's factory. The agreement requires CARSON to make an annual payment of €/£ 30,000 on 31 December each year and the first payment was made on 31 December 2xx5. As part of the contract CARSON was required to make an upfront payment of €/£ 3,000. The company incurred legal costs of €/£ 2,000 in respect of the lease. The interest rate implicit in the lease is 5%. At the inception of the lease, the present value of the lease payments totalled €/£ 106,380.<br><br>" +
       "<strong>Requirement (Q28):</strong> Calculate the right-of-use asset to be capitalised on the statement of financial position of CARSON as at 1 January 2xx5.",
-    answer: 111380,
+    correctAnswer: 111380,
   },
 
   // --- Q29 ------------------------------------------------------------------
@@ -585,7 +585,7 @@ const facctgSamplePaper3 = [
     questionText:
       "Stephen, a sole trader, conducted his inventory count on 5 January 2xx6 and valued the inventory at €/£ 74,000 at this date. Stephen sold goods for €/£ 18,000 on 2 January 2xx6 and made purchases of €/£ 11,500 on 3 January 2xx6. No other transactions took place since Stephen's year end of 31 December 2xx5. Stephen applies a 20% mark-up to all sales.<br><br>" +
       "<strong>Requirement:</strong> Calculate the value of Stephen's inventories as at 31 December 2xx5.",
-    answer: 77500,
+    correctAnswer: 77500,
   },
 
   // --- Q33 ------------------------------------------------------------------
@@ -702,7 +702,7 @@ const facctgSamplePaper3 = [
     questionText:
       "Jet Kitchen Ltd (\"JET\") is a catering company that prepares inflight meals for airlines. Inventory counted on 31 December 2xx5 totalled €/£ 370,000. Included in the count was €/£ 60,000 of food and beverages that were nearing their expiry date. These food and beverages were sold at a reduced price of €/£ 15,000 on 2 January 2xx6.<br><br>" +
       "<strong>Requirement:</strong> Calculate the value of inventories that should be included on the statement of financial position of JET as at 31 December 2xx5.",
-    answer: 325000,
+    correctAnswer: 325000,
   },
 
   // --- Q39 ------------------------------------------------------------------
