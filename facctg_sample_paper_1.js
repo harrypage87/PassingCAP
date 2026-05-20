@@ -500,7 +500,7 @@ const facctgSamplePaper1 = [
     questionText:
       "GUDES leased a new manufacturing machine from 1 January 2xx5. The lease is for a period of four years with annual payments of €/£ 20,000 per annum payable in advance. The interest rate implicit in the lease is 7%. A three-year annuity of 2.624 and a four-year annuity of 3.387 should apply where relevant.<br><br>" +
       "<strong>Requirement:</strong> Calculate the total lease liability at 31 December 2xx5.",
-    answer: 56154,
+    correctAnswer: 56154,
   },
 
   // --- Q26 ------------------------------------------------------------------
