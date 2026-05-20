@@ -400,7 +400,7 @@ const facctgSamplePaper1 = [
     questionText:
       "Using the same SUITS information as in Question 17 above (Adam Suitor / Suitor's Suits).<br><br>" +
       "<strong>Requirement:</strong> Calculate the cost of sales for SUITS for the year ended 31 December 2xx5.",
-    answer: 81095,
+    correctAnswer: 81095,
   },
 
   // --- Q20 ------------------------------------------------------------------
